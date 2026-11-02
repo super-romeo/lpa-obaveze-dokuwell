@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lpa-obaveze.dokufolio.com/sitemap.xml
